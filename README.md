@@ -19,7 +19,8 @@ Here we will be using NMF(Non-Negative Matrix Factorization) with the help of th
 This can be then used to understand the important features for each cluster of categories.
 By segregating the clusters, we will be able to identify the topics of the customer complaints.
 
-What is NMF(Non-Negative Matrix Factorization) ?
+## What is NMF(Non-Negative Matrix Factorization) ?
+
 Non-Negative Matrix Factorization is a statistical method that helps us to reduce the dimension of the input corpora or corpora. Internally, it uses the factor analysis method to give comparatively less weightage to the words that are having less coherence. 
 Non-Negative Matrix Factorization (NMF) is an unsupervised technique so there are no labeling of topics that the model will be trained on. 
 The way it works is that, NMF decomposes (or factorizes) high-dimensional vectors into a lower-dimensional representation. 
